@@ -1,0 +1,6 @@
+zoe_m8q.c:23:6:HAL_UART_RxHalfCpltCallback	16	static
+zoe_m8q.c:29:6:HAL_UART_RxCpltCallback	16	static
+zoe_m8q.c:36:6:POLL_WDMA_ZOE	8	static
+zoe_m8q.c:41:6:zoe_llhvelned_request	8	static
+zoe_m8q.c:47:6:zoe_parse_data	4	static
+zoe_m8q.c:106:6:ZOE	8	static
